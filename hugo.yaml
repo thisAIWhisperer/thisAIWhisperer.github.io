@@ -9,17 +9,13 @@ theme: ["PaperMod"]
 menu:
   main:
     - identifier: posts
-      name: 文章
+      name: 📖文章
       url: /posts/
       weight: 10
-    - identifier: categories
-      name: 分類
-      url: /categories/
-      weight: 20
     - identifier: tags
-      name: 標籤
+      name: 🏷️標籤
       url: /tags/
-      weight: 30
+      weight: 20
       
 enableRobotsTXT: true
 buildDrafts: false
@@ -82,11 +78,9 @@ params:
     imageHeight: 120
     imageTitle: 貓貓帥照
     buttons:
-      - name: 文章
+      - name: 📖文章
         url: posts
-      - name: 分類
-        url: categories
-      - name: 標籤
+      - name: 🏷️標籤
         url: tags
 
   # home-info mode
