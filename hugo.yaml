@@ -1,6 +1,7 @@
 # hugo basic config
 baseURL: https://thisAIWhisperer.github.io/
 languageCode: zh-tw
+defaultContentLanguage : zh-tw
 title: AI 溝通師的冒險旅程
 theme: ["PaperMod"]
 
