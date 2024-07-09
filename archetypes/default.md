@@ -12,10 +12,10 @@ comments: false # 留言功能
 description: "文章簡單敘述優化SEO"
 disableShare: false # 文章底部分享區
 searchHidden: false # 是否要在搜尋功能隱藏該文章
-ShowReadingTime: true # 顯示閱讀時間
+ShowReadingTime: false # 顯示閱讀時間
 ShowBreadCrumbs: true # 顯示文章所在路徑
 ShowPostNavLinks: true # 顯示上下一篇文章
-ShowWordCount: true # 顯示文字數字
+ShowWordCount: false # 顯示文字數字
 UseHugoToc: false # 是否使用 Hugo 預設的目錄
 cover:
     image: "<image path/url>" # image path/url
