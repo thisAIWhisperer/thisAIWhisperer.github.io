@@ -10,11 +10,11 @@ menu:
   main:
     - identifier: posts
       name: 📖文章
-      url: /posts/
+      url: /posts
       weight: 10
     - identifier: tags
       name: 🏷️標籤
-      url: /tags/
+      url: /tags
       weight: 20
       
 enableRobotsTXT: true
